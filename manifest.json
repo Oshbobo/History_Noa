@@ -1,0 +1,27 @@
+{
+  "name": "מתרגלים היסטוריה — כיתה ט׳",
+  "short_name": "היסטוריה ט׳",
+  "description": "אפליקציית לימוד ותרגול היסטוריה בעברית לכיתה ט׳ עם מסך האזנה",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "dir": "rtl",
+  "lang": "he",
+  "orientation": "portrait-primary",
+  "theme_color": "#6d5bd0",
+  "background_color": "#f6f5fb",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
